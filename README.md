@@ -12,10 +12,12 @@
 
  
 
-**Tools**
 
- <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
- <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" 
+## 🛠  Technologies and tools
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+&nbsp;
  
 <br>
 
