@@ -16,9 +16,9 @@
 ## 🛠  Technologies and tools
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />]
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
  
-<br>
+
 
 
 <!---
